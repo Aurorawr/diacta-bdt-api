@@ -43,3 +43,5 @@ gem 'devise'
 gem 'devise-jwt'
 
 gem 'pg', '~> 0.20.0'
+
+gem 'mimemagic', '~> 0.3.6'
